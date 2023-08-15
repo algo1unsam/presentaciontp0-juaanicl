@@ -1,26 +1,14 @@
-# Presentación
+## Juana Correa Luna
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Descripción: Soy Juani y tengo una gata que se llama Nosferatu
 
-Ya saben usar git!
+Foto de la gata mas linda (y tambien estoy yo pero ella es la importante):
 
+![d](https://scontent.faep24-2.fna.fbcdn.net/v/t39.30808-6/367750195_6297041853755952_5665100981600065797_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=shKxDCitT_kAX_n5-qe&_nc_ht=scontent.faep24-2.fna&oh=00_AfAInvkNAZ74EnFERLwMMXx9iXwHWq5ybDcve7pN6XFQ4Q&oe=64E009E5)
 
-## Estudiante: Nombre estudiante
-
-Descripción
-
-Foto de mi persona:
-
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
+Juani y Nosferatu (tambien mi mama en el fondo pero bueno)
 
 ------
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
+
 

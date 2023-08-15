@@ -1,6 +1,6 @@
 ## Juana Correa Luna
 
-Descripción: Soy Juani y tengo una gata que se llama Nosferatu
+Soy Juani y tengo una gata que se llama Nosferatu
 
 Foto de la gata mas linda (y tambien estoy yo pero ella es la importante):
 
